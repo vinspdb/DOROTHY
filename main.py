@@ -9,12 +9,7 @@ import discover
 import embedding
 import df_manipulation
 import metrics_util
-import sys
 import argparse
-
-dataset = sys.argv[1]
-algorithm = sys.argv[2]
-
 
 parser = argparse.ArgumentParser(description='Process Discovery using DOROTHY')
 
@@ -24,7 +19,7 @@ parser.add_argument('-miner', type=str, help="Process Discovery Algorithm (ilp, 
 args = parser.parse_args()
 
 dataset = args.event_log
-n_layer = args.miner
+algorithm = args.miner
 
 this_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)),"..")
 res_dir = os.path.join(this_dir, "results")
