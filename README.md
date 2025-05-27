@@ -2,7 +2,7 @@
 
 **The repository contains code referred to the work:**
 
-*Vincenzo Pasquadibisceglie, Annalisa Appice, Giovanna Discanno, Donato Malerba*
+*Vincenzo Pasquadibisceglie, Annalisa Appice, Giovanni Discanno, Donato Malerba*
 
 [*Leveraging a foundation deep neural embedding in process discovery under not-Pareto distribution*]
 
