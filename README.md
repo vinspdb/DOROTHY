@@ -5,6 +5,7 @@
 *Vincenzo Pasquadibisceglie, Annalisa Appice, Giovanni Discanno, Donato Malerba*
 
 [*Leveraging a foundation deep neural embedding in process discovery under not-Pareto distribution*](https://ieeexplore.ieee.org/document/11220731)
+
 Please cite our work if you find it useful for your research and work.
 
 ```
